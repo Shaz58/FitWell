@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1011220065395",
+    "firebase_url": "https://fitwell-ed911.firebaseio.com",
+    "project_id": "fitwell-ed911",
+    "storage_bucket": "fitwell-ed911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011220065395:android:9c6d28e5d52a69719b8e06",
+        "android_client_info": {
+          "package_name": "com.apps.fitwell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011220065395-r9bauhl8s0f519b91q0saci8ggnl89a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxMQI-V9iLR8VW1NDAjwlR9LsFQ-ZIOC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011220065395-r9bauhl8s0f519b91q0saci8ggnl89a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
